@@ -1,0 +1,29 @@
+C:\Users\--\Desktop\banco arduino\banco arduino\bin\Debug\banco arduino.exe.config
+C:\Users\--\Desktop\banco arduino\banco arduino\bin\Debug\banco arduino.exe
+C:\Users\--\Desktop\banco arduino\banco arduino\bin\Debug\banco arduino.pdb
+C:\Users\--\Desktop\banco arduino\banco arduino\bin\Debug\MySql.Data.dll
+C:\Users\--\Desktop\banco arduino\banco arduino\obj\Debug\banco arduino.csprojResolveAssemblyReference.cache
+C:\Users\--\Desktop\banco arduino\banco arduino\obj\Debug\banco_arduino.Properties.Resources.resources
+C:\Users\--\Desktop\banco arduino\banco arduino\obj\Debug\banco arduino.csproj.GenerateResource.Cache
+C:\Users\--\Desktop\banco arduino\banco arduino\obj\Debug\banco arduino.exe
+C:\Users\--\Desktop\banco arduino\banco arduino\obj\Debug\banco arduino.pdb
+C:\Users\--\Desktop\banco arduino\banco arduino\obj\Debug\banco_arduino.Form1.resources
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\bin\Debug\banco arduino.exe.config
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\obj\Debug\banco arduino.exe
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\obj\Debug\banco arduino.pdb
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\bin\Debug\banco arduino.exe
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\bin\Debug\banco arduino.pdb
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\obj\Debug\banco arduino.csprojResolveAssemblyReference.cache
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\obj\Debug\banco_arduino.Form1.resources
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\obj\Debug\banco_arduino.Properties.Resources.resources
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\banco arduino\banco arduino\obj\Debug\banco arduino.csproj.GenerateResource.Cache
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\bin\Debug\banco arduino.exe.config
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\obj\Debug\banco arduino.exe
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\obj\Debug\banco arduino.pdb
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\bin\Debug\banco arduino.exe
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\bin\Debug\banco arduino.pdb
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\bin\Debug\MySql.Data.dll
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\obj\Debug\banco arduino.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\obj\Debug\banco_arduino.Form1.resources
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\obj\Debug\banco_arduino.Properties.Resources.resources
+C:\Users\ds-etim-3\Downloads\banco arduino\banco arduino\banco arduino\obj\Debug\banco arduino.csproj.GenerateResource.Cache
